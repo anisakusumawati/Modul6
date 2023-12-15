@@ -1,0 +1,7 @@
+Python==3.10.7
+Flask==3.0.0
+Werkzeug==3.0.1
+Time
+Numpy==1.23.5
+Pandas==1.5.3
+TabNetClassifier
