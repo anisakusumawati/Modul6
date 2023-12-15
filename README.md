@@ -8,4 +8,4 @@ Berikut atribut-atribut yang harus diinput ke dalam web predict:
 - Hours per Week: jumlah jam yang dihabiskan untuk bekerja dalam seminggu
 
 # **Tampilan Web**
-![image](https://github.com/farrasdny/S7-M6-ML/assets/71580610/e933c6d0-9812-4a39-a027-c0a1d4c746a0))
+![image](https://drive.google.com/file/d/1k5raotxRBSFLx1sUTGFnLXaFQxmjN2_N/view?usp=drive_link)
