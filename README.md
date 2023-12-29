@@ -8,10 +8,10 @@ Berikut atribut-atribut yang harus diinput ke dalam web predict:
 - Hours per Week: jumlah jam yang dihabiskan untuk bekerja dalam seminggu
 
 # **Tampilan Web**
-![image](https://github.com/anisakusumawati/Modul6/blob/main/css/tampilan%201.jpeg)
+![image](https://github.com/anisakusumawati/Modul6/blob/main/css/TAMPILAN1.png)
 
-Gambar di atas adalah tampilan untuk input data yang ingin diprediksi pendapatannya
+- Gambar di atas adalah tampilan untuk input data yang ingin diprediksi pendapatannya
 
-![image](https://github.com/anisakusumawati/Modul6/blob/main/css/Tampilan%202.jpeg)
+![image](https://github.com/anisakusumawati/Modul6/blob/main/css/TAMPILAN2.png)
 
-Gambar di atas adalah hasil prediksi pendapatan 
+- Gambar di atas adalah hasil prediksi pendapatan 
